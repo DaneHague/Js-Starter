@@ -4,7 +4,7 @@ class App extends React.Component {
     render() {
         return(
             <div>
-                <p>herader</p>
+                <p>Header</p>
                 {this.props.children}
             </div>
         );
